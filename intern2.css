@@ -1,0 +1,71 @@
+.container1,.container2,.container3{
+    height: 28rem;
+    background-color:rgb(255, 229, 182) ;
+    margin: 0.4rem 0rem 0rem 1rem ;
+    border-radius: 0.5rem;
+    background-color: rgb(255, 229, 182);
+    color: rgb(13, 13, 166);
+    width: 20rem;       
+}
+#center{
+    height: 150px;
+    display: flex;
+    flex-direction: row; 
+}
+#paragraph1{
+    text-align: center;
+}
+
+nav{
+    background-color: rgb(255, 229, 182);
+    height: 4rem;
+    margin: 4rem 15rem 0.1rem 15rem;
+    font-weight: bold;
+    font-size: x-large;
+    border-radius: 10px;
+} 
+.circle {
+    width: 100px;
+    height: 100px;
+    border: 2px solid rgb(13, 13, 166);
+    border-radius: 50%;
+}
+.content{
+    height: 50rem;
+    width: 75rem;
+    margin-left: 15rem;
+    border-radius: 0.3rem;
+    background-color: rgb(255, 247, 233);
+}
+.para1{
+    height:100px;
+    width:200px;
+    text-align: center;
+    margin: 50px 10px 50px 50px;
+}
+.para2{
+    height:100px;
+    width:200px;
+    text-align: center;
+    margin: 40px 70px 50px 50px;
+}
+.img{
+    margin: 10px 40px 0px 89px;
+
+}
+.img1{
+    width: 100px;
+    height: 100px;
+    border: 2px solid rgb(13, 13, 166);
+    border-radius: 50%;  
+}
+.Details{
+    margin: 0px 30px 0px 210px ;
+}
+.col{
+    display: flex;
+}
+.bi{
+    font-size: 80px;
+    color: rgb(13, 13, 166);
+}
