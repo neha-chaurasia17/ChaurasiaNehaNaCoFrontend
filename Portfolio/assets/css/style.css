@@ -1,3 +1,13 @@
+.heading{
+    height: 4rem;
+    width: 75rem;;
+    border-radius: 0.3rem;
+    background-color:rgb(255, 229, 182) ;
+    margin-left: 13rem;
+    margin-top: 50px ;
+    color: rgb(13, 13, 166);
+    text-align: center;    
+}
 .container1,.container2,.container3{
     height: 28rem;
     background-color:rgb(255, 229, 182) ;
@@ -15,15 +25,6 @@
 #paragraph1{
     text-align: center;
 }
-
-nav{
-    background-color: rgb(255, 229, 182);
-    height: 4rem;
-    margin: 4rem 15rem 0.1rem 15rem;
-    font-weight: bold;
-    font-size: x-large;
-    border-radius: 10px;
-} 
 .circle {
     width: 100px;
     height: 100px;
@@ -33,7 +34,7 @@ nav{
 .content{
     height: 50rem;
     width: 75rem;
-    margin-left: 15rem;
+    margin-left: 13rem;
     border-radius: 0.3rem;
     background-color: rgb(255, 247, 233);
 }
