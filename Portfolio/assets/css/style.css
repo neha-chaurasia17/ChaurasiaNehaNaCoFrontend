@@ -9,13 +9,13 @@
     text-align: center;    
 }
 .container1,.container2,.container3{
-    height: 30%;
+    height: 35%;
     background-color:rgb(255, 229, 182) ;
     margin: 0.4rem 0rem 0rem 1rem ;
     border-radius: 0.5rem;
     background-color: rgb(255, 229, 182);
     color: rgb(13, 13, 166);
-    width: 20rem;       
+    width: 30%;       
 }
 #center{
     height: 150px;
@@ -42,16 +42,16 @@
     height:100px;
     width:200px;
     text-align: center;
-    margin: 50px 10px 50px 50px;
+    margin: 20% 5% 30% 10%;
 }
 .para2{
     height:100px;
     width:200px;
     text-align: center;
-    margin: 40px 70px 50px 50px;
+    margin: 17% 50% 30% 10%;
 }
 .img{
-    margin: 10px 40px 0px 89px;
+    margin: 10% 10% 0px 10%;
 
 }
 .img1{
@@ -61,13 +61,14 @@
     border-radius: 50%;  
 }
 .Details{
-    margin: 0px 30px 0px 210px ;
+    margin: 0px 30% 0px 40% ;
 }
-.col{
+.col,.row{
     display: flex;
 }
 .bi{
     font-size: 80px;
     color: rgb(13, 13, 166);
 }
+
 
