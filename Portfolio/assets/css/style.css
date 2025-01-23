@@ -1,15 +1,15 @@
 .heading{
-    height: 4rem;
-    width: 75rem;;
+    height: 4%;
+    width: 71.4%;;
     border-radius: 0.3rem;
     background-color:rgb(255, 229, 182) ;
-    margin-left: 13rem;
+    margin-left: 10%;
     margin-top: 50px ;
     color: rgb(13, 13, 166);
     text-align: center;    
 }
 .container1,.container2,.container3{
-    height: 28rem;
+    height: 30%;
     background-color:rgb(255, 229, 182) ;
     margin: 0.4rem 0rem 0rem 1rem ;
     border-radius: 0.5rem;
@@ -32,9 +32,9 @@
     border-radius: 50%;
 }
 .content{
-    height: 50rem;
-    width: 75rem;
-    margin-left: 13rem;
+    height: 53%;
+    width: 71.4%;
+    margin-left: 10%;
     border-radius: 0.3rem;
     background-color: rgb(255, 247, 233);
 }
@@ -70,3 +70,4 @@
     font-size: 80px;
     color: rgb(13, 13, 166);
 }
+
