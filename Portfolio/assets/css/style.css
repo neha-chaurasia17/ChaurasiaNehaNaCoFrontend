@@ -1,21 +1,32 @@
 .heading{
-    height: 4%;
+    height: 2%;
     width: 71.4%;;
-    border-radius: 0.3rem;
+    border-radius: 0.4rem;
     background-color:rgb(255, 229, 182) ;
     margin-left: 10%;
     margin-top: 50px ;
     color: rgb(13, 13, 166);
     text-align: center;    
+    border: 1px solid rgb(13, 13, 166);
+}
+h1{
+    margin: 2px;
 }
 .container1,.container2,.container3{
-    height: 35%;
+    height: 400px;
     background-color:rgb(255, 229, 182) ;
-    margin: 0.4rem 0rem 0rem 1rem ;
+    margin: 0.4% 0rem 0rem 0.4% ;
     border-radius: 0.5rem;
     background-color: rgb(255, 229, 182);
     color: rgb(13, 13, 166);
-    width: 30%;       
+    width:30%;    
+    border: 1px solid rgb(13, 13, 166);  
+}
+.container2{
+    width: 37.7%;
+}
+.container1 p,h2{
+    margin-left: 10px;
 }
 #center{
     height: 150px;
@@ -30,25 +41,27 @@
     height: 100px;
     border: 2px solid rgb(13, 13, 166);
     border-radius: 50%;
+    margin-left: 33%;
 }
 .content{
-    height: 53%;
+    height: 670px;
     width: 71.4%;
     margin-left: 10%;
-    border-radius: 0.3rem;
+    border-radius: 0.4rem;
     background-color: rgb(255, 247, 233);
+    border: 1px solid rgb(13, 13, 166);
 }
 .para1{
     height:100px;
     width:200px;
     text-align: center;
-    margin: 20% 5% 30% 10%;
+    margin: 20% 5% 0 10%;
 }
 .para2{
     height:100px;
     width:200px;
     text-align: center;
-    margin: 17% 50% 30% 10%;
+    margin: 17% 50% 0 10%;
 }
 .img{
     margin: 10% 10% 0px 10%;
@@ -60,15 +73,66 @@
     border: 2px solid rgb(13, 13, 166);
     border-radius: 50%;  
 }
-.Details{
-    margin: 0px 30% 0px 40% ;
+.Details h3{
+    margin: 0.7% 30% 0.7% 37.5% ;
 }
-.col,.row{
+.row{
     display: flex;
 }
-.bi{
-    font-size: 80px;
-    color: rgb(13, 13, 166);
+.col-1,.col-2{
+    margin-left: 15%;
+    text-align: center;
 }
+.Experience{
+    background-color: rgb(250, 243, 230);
+    border: 1px solid rgb(248, 204, 122);
+    border-radius: 3%;
+    text-align: center; 
+    margin-top: 5%;
+}
+.Experience h3,h4,p{
+    margin:1% 0 2% 0;
+}
+.row1,.row2{
+    display: flex;
+    
+}
+.hobbies,.about,.skills{
+    border-radius: 0.4rem;
+    background-color:rgb(255, 229, 182) ;
+    color: rgb(13, 13, 166);
+    text-align: center;    
+    border: 1px solid rgb(13, 13, 166);
+    margin: 0.5% 0 0 0.3%; 
+}
+.hobbies{
+    width: 310px;
+    height: 250px;
+    
+}
+.about{
+    width: 360px;
+    height: 250px;
+}
+.skills{
+    width:320px;
+   height: 250px;
+   margin-top: 5px;
+   margin-left: 3px;
+}
+.icons{
+    display: flex;
+}
+.icon1,.icon2,.icon3{
+    width:65px;
+    height:65px;
+    border: 5px solid rgb(13, 13, 166);
+    border-radius: 50%;
+    margin-left: 6%;
+}
+
+
+
+
 
 
